@@ -1,0 +1,7 @@
+point:2, comment: 1
+point:3, comment: 3
+point:2, comment: hola
+point:3, comment: aprobado
+point:3, comment: 1
+point:2, comment: 2
+point:3, comment: bien
